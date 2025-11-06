@@ -37,7 +37,7 @@ Rockbuster’s management requested answers to the following business questions:
 ---
 
 ##  Tableau Dashboard
-[Add your Tableau Public link here once published]
+[(https://public.tableau.com/app/profile/joseph.adamski/viz/3_10_tableau/Dashboard1?publish=yes)]
 
 ---
 
