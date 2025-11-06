@@ -48,6 +48,6 @@ Rockbuster’s management requested answers to the following business questions:
 
 ---
 
-## 👤 Author
+##  Author
 **Joseph Adamski**  
 CareerFoundry Data Analytics Program
